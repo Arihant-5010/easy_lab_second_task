@@ -1,4 +1,4 @@
-                                                                                            Elevate Labs Task 
+Elevate Labs Task INTERNSHIP
 Sales Analysis Dashboard – Summary
 This interactive dashboard provides a detailed analysis of sales performance, offering insights into key business
 metrics, regional trends, product category performance, customer behavior, and shipping efficiency.
